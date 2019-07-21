@@ -250,16 +250,16 @@ done
 #
 #     $ conda deactivate
 ```
-(base) % **conda activate research**
+(base) % **conda activate research**\
 (research) % **jupyter labextension install @jupyter-widgets/jupyterlab-manager**
 ```
 Building jupyterlab assets
 ```
-(research) % jupyter labextension install jupyter-matplotlib
+(research) % **jupyter labextension install jupyter-matplotlib**
 ```
 Building jupyterlab assets
 ```
-(research) % python -m ipykernel install --user --name research --display-name="python research"
+(research) % **python -m ipykernel install --user --name research --display-name="python research"**
 ```
 Installed kernelspec research in /Users/palmer/Library/Jupyter/kernels/research
 ```

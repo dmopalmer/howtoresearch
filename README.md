@@ -19,8 +19,10 @@ It also installs everything in user space so you don't have to be continually su
 To install Anaconda, follow the instructions in\
 https://docs.anaconda.com/anaconda/install/linux/
 
-After you have installed Anaconda, and verified your installation\
-https://docs.anaconda.com/anaconda/install/verify-install/\
+After you have installed Anaconda, and verified your installation
+
+https://docs.anaconda.com/anaconda/install/verify-install/
+
 close all your terminal windows, then re-open them.
 (So that all those terminals know to use the Anaconda Python instead of the system Python.)
 
