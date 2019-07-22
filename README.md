@@ -61,7 +61,7 @@ If everything went perfectly with no mistakes by anyone, it should bring Jupyter
 In your Jupyter Lab, navigate to the 0. Testing directory, then open the Frequency.ipynb notebook.
 
 For the first lesson, on Frequency, you will need to install 
-the `python-sounddevice` library in your `research` environment.
+the `python-sounddevice` and `sympy` libraries in your `research` environment.
 Go to a terminal and
 ```
 conda activate research
